@@ -10,7 +10,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 5. <a href = "https://github.com/silverarrows22/SC1015-mini-project/blob/main/Random%20Forest%20(one-hot%20encoding).ipynb">Machine Learning: Random Forest</a>
 
 <h2> Contributors </h2>
-Phoebe C - Machine Learning: Logistic Regression, Decision Tree, Random Forest <br>
+Phoebe C - Machine Learning: Logistic Regression, Decision Tree, Naive Bayes, Random Forest <br>
 Nagammai S - Exploratory Data Analysis, Decision Tree, Logistic Regression <br>
 Melissa S - Data Preparation, Logistic Regression <br>
 
