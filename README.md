@@ -1,9 +1,13 @@
 <h1> Credit Card Churn </h1>
 
 <h2> About </h2>
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence which focuses on credit card churn from <a href = "https://www.kaggle.com/sakshigoyal7/credit-card-customers?select=BankChurners.csv"> this Kaggle data set</a>. For detailed walkthrough, refer to the source code:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence which focuses on credit card churn from <a href = "https://www.kaggle.com/sakshigoyal7/credit-card-customers?select=BankChurners.csv"> this Kaggle data set</a>. For detailed walkthrough, refer to the source code in order:
 
-[insert the links here]
+1. <a href = "https://github.com/silverarrows22/SC1015-mini-project/blob/main/Data%20Visualisation%20with%20EDA.ipynb">Data Visualisation with EDA</a>
+2. <a href = "https://github.com/silverarrows22/SC1015-mini-project/blob/main/Logistic%20Regression%20(one-hot%20encoding).ipynb">Machine Learning: Logistic Regression</a>
+3. <a href = "https://github.com/silverarrows22/SC1015-mini-project/blob/main/Naive%20Bayes%20(one-hot%20encoding).ipynb">Machine Learning: Naive Bayes</a>
+4. <a href = "https://github.com/silverarrows22/SC1015-mini-project/blob/main/Decision%20Tree%20(one-hot%20encoding).ipynb">Machine Learning: Decision Tree</a>
+5. <a href = "https://github.com/silverarrows22/SC1015-mini-project/blob/main/Random%20Forest%20(one-hot%20encoding).ipynb">Machine Learning: Random Forest</a>
 
 <h2> Contributors </h2>
 Phoebe C - Machine Learning: Logistic Regression, Decision Tree, Random Forest <br>
@@ -19,7 +23,7 @@ We used multiple machine learning models to find a solution for our problem: <br
 
 <b> Logistic regression </b> is a supervised learning technique. Attrition_Flag is defined as the customer activity (ie. attrited customers vs existing customers) which is a categorical variable. Since this categorical variable is our dependent variable, we chose to use logistic regression instead of simple regression. However, it must be noted that as logistic regression uses all the variables in the regression equation, it may result in lower accuracy. <br>
 
-<b> Decision tree </b> also uses the supervised learning technique. The tree - like model allows the decisions to be represented in a clear and well-defined manner. Moreover, decision tree has a higher accuracy compared to logistic regression. Since the decision tree has high variance and requires complex calculations if there are many class variables, we used the random forest, which is made up of multiple decision trees. A random forest is more efficient with large datasets, and is also more accurate compared to decision tree. <br>
+<b> Decision tree </b> also uses the supervised learning technique. The tree-like model allows the decisions to be represented in a clear and well-defined manner. Moreover, decision tree has a higher accuracy compared to logistic regression. Since the decision tree has high variance and requires complex calculations if there are many class variables, we used the random forest, which is made up of multiple decision trees. A random forest is more efficient with large datasets, and is also more accurate compared to decision tree. <br>
 
 <h2> Learning Points </h2>
 <ul>
